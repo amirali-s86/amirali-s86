@@ -16,15 +16,7 @@
 
 ## 🛠 Tech Stack & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nuxt,tailwind,bootstrap,nodejs,git,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=amirali-salari&show_icons=true&theme=tokyonight" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=amirali-salari&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nuxt,tailwind,nodejs,git,linux" />
 </p>
 
 ---

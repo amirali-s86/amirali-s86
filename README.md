@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm AmirAli Salari</h1>
 
 <p align="center">
-  ⚡ Front-End Developer | 💻 React • Vue • Next • Nuxt | 🌱 Always Learning  
+  ⚡ Front-End Developer | 💻 React • Next • Vue • Nuxt | 🌱 Always Learning  
 </p>
 
 ---
@@ -23,8 +23,17 @@
 
 ## 🔗 Connect With Me  
 <p>
-  <img height="32" src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram" />
-  <img height="32" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
+  <a href="https://t.me/amiralis86">
+    <img height="32" src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  
+  <a href="mailto:amiralisalarifard86@gmail.com">
+    <img height="32" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://amiralisalari.ir" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white" alt="Website">
+  </a>
 </p>
 
 ---

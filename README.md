@@ -24,15 +24,15 @@
 ## 🔗 Connect With Me  
 <p>
   <a href="https://t.me/amiralis86">
-    <img height="32" src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img height="32" src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&#x26;logo=telegram">
   </a>
   
   <a href="mailto:amiralisalarifard86@gmail.com">
-    <img height="32" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img height="32" src="https://img.shields.io/badge/Email-000?style=for-the-badge&#x26;logo=gmail">
   </a>
   
   <a href="https://amiralisalari.ir" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white" alt="Website">
+    <img height="32" src="https://img.shields.io/badge/Website-000?style=for-the-badge&#x26;logo=website">
   </a>
 </p>
 
